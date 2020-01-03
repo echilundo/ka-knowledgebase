@@ -4,7 +4,7 @@
 
 The ultimate static generated documentation theme for the JAM-stack. Highly customizable, based on Gridsome, ready to deploy to Netlify in one click. [DEMO](https://jamdocs.netlify.com/)
 
-*Beware, Jamdocs is still in heavy development and will probably cahnge a lot in the near future. And the docs for it is still not completed.*
+*Beware, Jamdocs is still in heavy development and will probably change a lot in the near future. And the docs for it is still not completed.*
 
 ## Fast by default
 Jamdocs is optimized to be as fast as possible, right now generating 100/100/100/100 score in Google Lighthouse. And 100/100 score in Google Page Speed Insights.
