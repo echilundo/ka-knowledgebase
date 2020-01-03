@@ -10,11 +10,15 @@
       ]
     },
     {
-      "section": "Setup",
+      "section": "Branding",
       "topics": [
         {
-          "title": "Theme configuration",
-          "slug": "theme-configuration"
+          "title": "Intro to Branding",
+          "slug": "branding-intro"
+        }
+        {
+          "title": "Logos",
+          "slug": "logos"
         }
       ]
     }
